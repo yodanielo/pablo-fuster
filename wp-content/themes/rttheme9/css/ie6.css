@@ -1,0 +1,44 @@
+        
+/*first ul background*/
+.navigation ul li .first_ul{
+padding:0px 0 12px 0;
+margin:0;
+width:173px;
+position:absolute;
+top:20px;
+left:0;
+float:left;
+}
+
+.navigation ul li ul .first_li{
+padding-top:0px;
+width:173px;
+}
+
+.portfolio_curv_bottom{
+position:relative;
+top:-11px;
+z-index:668;
+}
+
+#footer {
+height:120px;
+}
+
+#container1
+{
+    background-image:none; 
+}
+
+.box.product{
+margin:0 5px 15px 9px;
+}
+
+.sidebars1{ 
+padding-bottom:30px;
+}
+ 
+/* Small Boxes (three column home page) */    
+.content_con2.three_column .box.small{
+margin:0 9px;
+}   
